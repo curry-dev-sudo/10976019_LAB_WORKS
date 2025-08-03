@@ -1,0 +1,6 @@
+Q: A pixel in a grayscale image has a value of 180.
+If the binary threshold is set to 150, what is the new pixel value?
+
+A: 255
+
+Explanation: In binary thresholding, pixel values above the threshold are set to 255, and those below are set to 0. Since 180 > 150, the pixel becomes 255.
